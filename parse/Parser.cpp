@@ -6,6 +6,7 @@
 #include <algorithm>
 #include <iostream>
 #include <iomanip>
+#include <sstream>
 
 #include "Parser.h"
 #include "Error.h"
